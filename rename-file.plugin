@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=rename-file
+IAge=3
+Name=Rename current file
+Icon=insert-text
+Description=Allow to rename the current file with F2.
+Authors=Jan Schlüter
+Copyright=Copyright © 2022 Jan Schlüter
+Website=https://github.com/f0k/eog-rename-file
